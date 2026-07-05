@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suchita Wayadande
 
-### Data Analyst | Python | SQL | Power BI | Business Intelligence
+### Data Analyst | Python | SQL | Power BI | Data Visualization
 
 I’m a Data Analyst with **1 year of industry experience** working on manufacturing and business data. I enjoy transforming raw data into meaningful insights through dashboards, automation, and data analysis.
 
